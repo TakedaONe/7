@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "71"
+rootProject.name = "YouTobe"
 include(":app")
  
